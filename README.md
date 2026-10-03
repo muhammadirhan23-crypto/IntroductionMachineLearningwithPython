@@ -1,37 +1,48 @@
-# Introduction Machine Learning with Python
+# Practical Statistics for Data Scientists
 
 ## About This Repository
 
-This repository contains the code reproduction and theoretical explanations
-based on the book *Introduction to Machine Learning with Python: A Guide for
-Data Scientists* by Andreas C. Müller and Sarah Guido.
+This repository contains Python code reproductions, theoretical explanations, and chapter summaries based on *Practical Statistics for Data Scientists*, Second Edition, by Peter Bruce, Andrew Bruce, and Peter Gedeck, published by O'Reilly.
 
-This repository is created as an individual task for the Enrichment for
-Machine Learning and Deep Learning Classes.
+This repository is created for the individual assignment in the Enrichment for Machine Learning and Deep Learning Classes.
 
-The main objective is to reproduce the machine learning code presented in
-each chapter of the book and provide theoretical explanations of the
-concepts discussed.
 ## Repository Structure
 
-The repository is organized by chapter. Each chapter contains a Jupyter Notebook with code reproduction, a summary, and theoretical explanations.
+Each chapter will contain a Jupyter Notebook with relevant code reproductions, theoretical explanations, and a summary of the concepts discussed.
+
+* **Chapter 1:** Exploratory Data Analysis
+* **Chapter 2:** Data and Sampling Distributions
+* **Chapter 3:** Statistical Experiments and Significance Testing
+* **Chapter 4:** Regression and Prediction
 
 ## Chapter Overview
 
-### Chapter 1 – Introduction
+### Chapter 1 — Exploratory Data Analysis
 
-This chapter introduces the basic concepts of Machine Learning, explains why Machine Learning is useful, and discusses the types of problems that Machine Learning can solve.
+Explores structured data, statistical summaries, distributions, and relationships between variables.
 
-**Status:** In progress
+### Chapter 2 — Data and Sampling Distributions
 
-### Upcoming Chapters
+Discusses data distributions, sampling distributions, and the relationship between samples and populations.
 
-The remaining chapters will be added progressively. Each chapter will include code reproduction, notebook summaries, and theoretical explanations.
+### Chapter 3 — Statistical Experiments and Significance Testing
 
-## References
+Explains statistical experiments, hypothesis testing, and significance testing.
 
-Müller, A. C., and Guido, S. *Introduction to Machine Learning with Python: A Guide for Data Scientists*. O'Reilly Media.
+### Chapter 4 — Regression and Prediction
 
-## Note
+Introduces regression methods for analyzing relationships between variables and making predictions.
 
-This repository is an individual academic assignment for the Enrichment for Machine Learning and Deep Learning Classes.
+## Tools and Technologies
+
+* Python
+* Google Colab
+* Jupyter Notebook
+* pandas
+* NumPy
+* Matplotlib
+* SciPy
+
+## Reference
+
+Bruce, P., Bruce, A., & Gedeck, P. *Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python*. Second Edition. O'Reilly Media.
